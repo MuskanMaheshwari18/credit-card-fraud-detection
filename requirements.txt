@@ -5,5 +5,5 @@ Seaborn== 0.13.2
 scikit-learn== 1.7.2
 pickle==4.0
 Streamlit==1.52.1
-LightGBM version== 4.6.0
-Geopy version==2.4.1
+LightGBM == 4.6.0
+Geopy ==2.4.1
